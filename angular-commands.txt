@@ -1,0 +1,12 @@
+npm install
+npm start
+
+ng add @ngrx/schematics@latest
+
+npm install @ngrx/store@latest
+npm install @ngrx/effects@latest
+npm install @ngrx/entity@latest
+npm install @ngrx/store-devtools@latest
+
+ng add @ngrx/store@latest
+
