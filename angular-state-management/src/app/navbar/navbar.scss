@@ -1,0 +1,24 @@
+/* navbar.component.css */
+.sidebar {
+    width: 200px;
+    height: 100vh;
+    background: #2c3e50;
+    color: white;
+    padding: 20px;
+    position: fixed;
+  }
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  .sidebar li {
+    margin: 15px 0;
+  }
+  .sidebar a {
+    color: white;
+    text-decoration: none;
+  }
+  .sidebar a:hover {
+    text-decoration: underline;
+  }
+  
