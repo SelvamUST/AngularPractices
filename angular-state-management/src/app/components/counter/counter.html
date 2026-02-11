@@ -1,1 +1,6 @@
-<p>counter works!</p>
+<div style="text-align:center">
+    <h2>Counter Value: {{ counter$ |async }}</h2>
+    <button (click)="increment()">Increment</button>
+    <button (click)="decrement()">Decrement</button>
+
+</div>

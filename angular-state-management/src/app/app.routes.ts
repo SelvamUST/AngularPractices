@@ -8,6 +8,6 @@ import {Counter } from './components/counter/counter';
 export const routes: Routes = [
   { path: '', component: Welcome },
   { path: 'products', component: Products },
-  { path: 'orders', component: Orders }
+  { path: 'orders', component: Orders },
   { path: 'counter', component:Counter}
 ];

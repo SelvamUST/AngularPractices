@@ -5,6 +5,7 @@
     "packageManager": "npm",
     "analytics": "a788ab86-ebfb-472d-96a3-3839e10d223a",
     "schematicCollections": [
+      "@ngrx/schematics",
       "@ngrx/schematics"
     ]
   },
